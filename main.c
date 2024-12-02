@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define NOMBRE "Gonza :D"
+#define NOMBRE "Tomi"
 
 int main() {
 	printf("Hola, mi nombre es %s\n", NOMBRE);
